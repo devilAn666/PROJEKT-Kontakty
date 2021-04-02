@@ -42,7 +42,6 @@ img {
 	.kontakty {
 		display: flex;
 		flex-wrap: wrap;
-		/*justify-content: space-between;*/
 	}
 
 	.box {
@@ -54,6 +53,10 @@ img {
 	.foto {
 		margin-right: 20px;
 		margin-top: 20px;
+	}
+
+	h2 {
+		font-size: 18px;
 	}
 
 	
@@ -74,5 +77,6 @@ img {
 		margin: 0;
 
 	}
+	
 
 }
