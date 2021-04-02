@@ -42,7 +42,7 @@ img {
 	.kontakty {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-between;
+		/*justify-content: space-between;*/
 	}
 
 	.box {
@@ -56,9 +56,6 @@ img {
 		margin-top: 20px;
 	}
 
-	/*img {
-		margin-top: 25%;
-	}	*/
 	
 }
 
